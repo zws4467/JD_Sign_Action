@@ -1,4 +1,4 @@
-name: 什么值得买签到
+name: smzdm
 
 on:
   repository_dispatch:
